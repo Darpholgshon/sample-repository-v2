@@ -3,4 +3,4 @@ Sample Repository for playing with GitHub
 
 # History
 
-* Done Feature 1
+* Feature 1 Reopened. New stuff pending.
